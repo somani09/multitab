@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/multitab/static/css/main.4c7b5cdf.chunk.css",
+    "main.js": "/multitab/static/js/main.121cb716.chunk.js",
+    "main.js.map": "/multitab/static/js/main.121cb716.chunk.js.map",
+    "runtime-main.js": "/multitab/static/js/runtime-main.6de005e7.js",
+    "runtime-main.js.map": "/multitab/static/js/runtime-main.6de005e7.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/multitab/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.241ba1ff.chunk.js": "/multitab/static/js/2.241ba1ff.chunk.js",
+    "static/js/2.241ba1ff.chunk.js.map": "/multitab/static/js/2.241ba1ff.chunk.js.map",
+    "static/js/3.996e4599.chunk.js": "/multitab/static/js/3.996e4599.chunk.js",
+    "static/js/3.996e4599.chunk.js.map": "/multitab/static/js/3.996e4599.chunk.js.map",
+    "index.html": "/multitab/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/multitab/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.4c7b5cdf.chunk.css.map": "/multitab/static/css/main.4c7b5cdf.chunk.css.map",
+    "static/js/2.241ba1ff.chunk.js.LICENSE.txt": "/multitab/static/js/2.241ba1ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6de005e7.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.241ba1ff.chunk.js",
+    "static/css/main.4c7b5cdf.chunk.css",
+    "static/js/main.121cb716.chunk.js"
+  ]
+}
